@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEvjK5HUs7s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\delga\\OneDrive\\Escritorio\\scripts\\cursos\\docker_avanzado\\Dependencies\\Dependencies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delga\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\delga\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
