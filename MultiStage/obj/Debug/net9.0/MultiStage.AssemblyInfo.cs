@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiStage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf77e5dbb1f9681abc8af2b1b3761954bd6b429")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiStage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiStage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
